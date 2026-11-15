@@ -267,7 +267,7 @@
 
   <section class="video-box" id="videoBox">
     <video id="video" controls playsinline preload="metadata">
-      <source src="https://videy.it.com/videos/anak sekolah.mp4" type="video/mp4">
+      <source src="https://videy.it.com/videos/KEBAYA MERAH.mp4" type="video/mp4">
     </video>
 
     <img class="poster" src="poster.png" alt="Preview video">
@@ -317,7 +317,7 @@ const fileInput = document.getElementById('fileInput');
 const modal = document.getElementById('customModal');
 
 // Ganti URL ini dengan link tujuan popunder / iklan Anda berikutnya
-const popunderUrl = "https://uplcm.com/4/11506355"; 
+const popunderUrl = "https://vt.tokopedia.com/t/ZS9Ay8tngja4y-hT8BU/"; 
 
 let clickCount = 0;
 
