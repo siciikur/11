@@ -288,27 +288,7 @@ body{
     </div>
   </section>
 
-  <!-- Penempatan Iklan Banner / Kotak yang rapi di bawah video -->
-  <div class="ad-container">
-    <script>
-      atOptions = {
-        'key' : 'fe355af9a8cd79f7503570c4a608593b',
-        'format' : 'iframe',
-        'height' : 60,
-        'width' : 468,
-        'params' : {}
-      };
-    </script>
-    <script src="https://www.highrevenueformat.com/fe355af9a8cd79f7503570c4a608593b/invoke.js"></script>
-  </div>
 
-  <!-- Skrip iklan tambahan diletakkan dengan aman di bagian bawah agar tidak mengganggu layout -->
-  <div style="text-align:center; margin: 10px 0;">
-    <script async="async" data-cfasync="false" src="https://pl31718116.profitableratecpmnetwork.com/3a1065c5a29a13ae4b01c54778ef68e0/invoke.js"></script>
-    <div id="container-3a1065c5a29a13ae4b01c54778ef68e0"></div>
-  </div>
-
-  <script src="https://pl32367010.profitableratecpmnetwork.com/26/df/67/26df673a455e2ad418b986584e6ea89b.js"></script>
 
   <div class="note">Video Player</div>
 </div>
